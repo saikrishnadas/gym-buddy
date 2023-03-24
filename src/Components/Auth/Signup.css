@@ -45,3 +45,23 @@
 .signup-footer {
 	display: flex;
 }
+
+.dots-container {
+	display: flex;
+	gap: 20px;
+	justify-content: center;
+}
+
+.dots {
+	width: 14px;
+	height: 14px;
+	background-color: #0000003a;
+	border-radius: 100%;
+}
+
+.dot-current {
+	width: 34px;
+	height: 14px;
+	background-color: #1336b0;
+	border-radius: 20px;
+}
