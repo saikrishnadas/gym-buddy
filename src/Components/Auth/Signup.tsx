@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./Signup.css";
 import signUpIcon from "../../assets/iconhome.png";
 import appIcon from "../../assets/appicon.png";
-
 import {
 	Button,
 	TextField,
